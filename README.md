@@ -76,8 +76,8 @@ https://github.com/Ankitshukla63/springboot-student-crud
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/ankitshukla63
+- 📧 Email: shuklaankit9993@gmail.com
 - 🌍 GitHub: https://github.com/Ankitshukla63
 
 ---
