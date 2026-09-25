@@ -1,85 +1,94 @@
-# Hi there 👋, I'm Ankit Shukla
+# 👋 Hi, I'm Ankit Shukla
 
-## 💻 Software Developer | Java Backend Developer | Android Developer
+### 💻 Java Backend Developer | Spring Boot | Android
 
-I'm a passionate Software Developer with a strong interest in building scalable backend systems and Android applications. I enjoy solving real-world problems using Java and continuously improving my software engineering skills.
+I'm a Software Developer interested in building **backend applications, REST APIs, and real-world software solutions**.
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Information Technology
-- 💼 Software Development Intern
-- 🌱 Currently learning **Spring Boot, Hibernate, Spring Security, and System Design**
-- 💡 Interested in **Backend Development, REST APIs, Microservices, and Android Development**
-- 🎯 Goal: Become a Backend Software Engineer at a Product-Based Company
-- 📚 Always learning new technologies and building practical projects
+Currently working with **Java, Spring Boot, Android, and REST APIs**, while exploring **System Design, Microservices, Testing, and AI integration**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### Languages
-- Java
-- Python
-- SQL
-- Kotlin
+### 💻 Languages
+`Java` `Kotlin` `Python` `SQL` `JavaScript`
 
-### Backend
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- REST APIs
+### 🚀 Backend
+`Spring Boot` `Spring MVC` `Spring Data JPA` `Hibernate` `REST APIs` `Spring Security` `JWT`
 
-### Database
-- MySQL
+### 🗄️ Databases & Infrastructure
+`MySQL` `PostgreSQL` `Redis` `Kafka`
 
-### Tools
-- Git
-- GitHub
-- Postman
-- IntelliJ IDEA
-- VS Code
+### 📱 Android
+`Kotlin` `MVVM` `Retrofit` `Android SDK` `RFID`
+
+### 🧪 Testing & Tools
+`JUnit` `REST Assured` `Postman` `Git` `GitHub` `IntelliJ IDEA` `VS Code`
+
+### ☁️ Cloud & AI
+`AWS` `Google Gemini API` `Spring AI`
+
+---
+
+## 🚀 What I Build
+
+- 🔹 REST APIs and backend applications using **Java & Spring Boot**
+- 🔹 Applications using **JPA, Hibernate, Spring Security & JWT**
+- 🔹 Android applications using **Kotlin, MVVM & Retrofit**
+- 🔹 **RFID-based inventory and warehouse management systems**
+- 🔹 Exploring **Microservices, Redis, Kafka, System Design & AI**
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎓 Spring Boot Student CRUD API
-- RESTful CRUD APIs
-- Spring Boot + Spring Data JPA + Hibernate
-- MySQL Integration
-- Soft Delete Implementation
-- Layered Architecture
+### 🔥 Spring Boot Student CRUD API
 
-🔗 Repository:
-https://github.com/Ankitshukla63/springboot-student-crud
+**Java • Spring Boot • JPA • Hibernate • MySQL**
+
+RESTful CRUD application implementing layered architecture, database integration and soft-delete functionality.
+
+🔗 [View Repository](https://github.com/Ankitshukla63/springboot-student-crud)
 
 ---
 
-### 📱 Warehouse Management Android App
-- Kotlin
-- MVVM Architecture
-- Retrofit
-- RFID Integration
-- REST APIs
+### 📦 Warehouse Management System
+
+**Kotlin • Android • MVVM • Retrofit • RFID**
+
+Android-based warehouse management application with REST API integration and RFID inventory scanning using Chainway hardware.
 
 ---
 
-## 📈 GitHub Stats
+### 🔐 CampusConnect Portal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitshukla63&show_icons=true&theme=tokyonight)
+**Django • REST API • SQLite • JWT**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitshukla63&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ankitshukla63
-- 📧 Email: shuklaankit9993@gmail.com
-- 🌍 GitHub: https://github.com/Ankitshukla63
+Secure file-sharing platform with role-based access control and JWT authentication.
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 🔗 Spring Boot Filter Demo
+
+**Java • Spring Boot • Servlet Filters**
+
+A practical project exploring request/response filters, authentication, logging, request-body handling, response headers and response-body processing.
+
+🔗 [View Repository](https://github.com/Ankitshukla63/springboot-filter-demo)
+
+---
+
+## 📈 Currently Learning
+
+```text
+Spring Security
+      ↓
+System Design
+      ↓
+Microservices
+      ↓
+Kafka + Redis
+      ↓
+Testing & REST Assured
+      ↓
+Spring AI
